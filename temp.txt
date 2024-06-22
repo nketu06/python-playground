@@ -1,3 +1,5 @@
-this is temp file in temp brach
+
+i am checking git diff command 😇
+
 hurrrraaaayyy i change in temp
 i made changes in main branch
