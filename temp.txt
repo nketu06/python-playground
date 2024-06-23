@@ -1,6 +1,5 @@
 
 hurrrraaaayyy i change in temp
 i made changes in main branch
-
-i am learing git stash in new branch bugfix
-
+ i fixed some bug for rebase
+ 
