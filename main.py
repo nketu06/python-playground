@@ -19,12 +19,12 @@ dataset_name="dataset_006"
 
 
 
-def create_or_get_dataset(client, dataset_name):
+def create_or_get_dataset(client, name):
     """Create a new dataset or get the existing one."""
     for dataset in client.get_datasets():
-        if dataset.name == dataset_name:
+        if dataset.name == name:
             return dataset
-    return client.create_dataset(name=dataset_name)
+    return client.create_dataset(name=name)
 
 def get_json_files_from_gcs(bucket_name, prefix):
     """Retrieve JSON files from the GCS bucket."""
