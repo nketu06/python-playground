@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "age": 30,
+        "email": "alice@example.com",
+        "city": "Los Angeles",
+        "food": ["apple", "banana"]
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 28,
+        "email": "bob@example.com",
+        "city": "New York",
+        "food": ["orange", "strawberry"]
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 32,
+        "email": "charlie@example.com",
+        "city": "Chicago",
+        "food": ["grape", "blueberry"]
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "age": 29,
+        "email": "david@example.com",
+        "city": "Houston",
+        "food": ["pineapple", "kiwi"]
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "age": 27,
+        "email": "eve@example.com",
+        "city": "Phoenix",
+        "food": ["mango", "peach"]
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "age": 31,
+        "email": "frank@example.com",
+        "city": "Philadelphia",
+        "food": ["pear", "watermelon"]
+    },
+    {
+        "id": 7,
+        "name": "Grace",
+        "age": 26,
+        "email": "grace@example.com",
+        "city": "San Antonio",
+        "food": ["apple", "cherry"]
+    },
+    {
+        "id": 8,
+        "name": "Henry",
+        "age": 34,
+        "email": "henry@example.com",
+        "city": "San Diego",
+        "food": ["banana", "grapefruit"]
+    },
+    {
+        "id": 9,
+        "name": "Isabel",
+        "age": 25,
+        "email": "isabel@example.com",
+        "city": "Dallas",
+        "food": ["pineapple", "papaya"]
+    },
+    {
+        "id": 10,
+        "name": "Jack",
+        "age": 33,
+        "email": "jack@example.com",
+        "city": "San Jose",
+        "food": ["orange", "plum"]
+    }
+]
+
+

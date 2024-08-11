@@ -1,0 +1,10 @@
+{"age":30,"city":"Los Angeles","email":"alice@example.com","food":["apple","banana"],"id":1,"name":"Alice"}
+{"age":28,"city":"New York","email":"bob@example.com","food":["orange","strawberry"],"id":2,"name":"Bob"}
+{"age":32,"city":"Chicago","email":"charlie@example.com","food":["grape","blueberry"],"id":3,"name":"Charlie"}
+{"age":29,"city":"Houston","email":"david@example.com","food":["pineapple","kiwi"],"id":4,"name":"David"}
+{"age":27,"city":"Phoenix","email":"eve@example.com","food":["mango","peach"],"id":5,"name":"Eve"}
+{"age":31,"city":"Philadelphia","email":"frank@example.com","food":["pear","watermelon"],"id":6,"name":"Frank"}
+{"age":26,"city":"San Antonio","email":"grace@example.com","food":["apple","cherry"],"id":7,"name":"Grace"}
+{"age":34,"city":"San Diego","email":"henry@example.com","food":["banana","grapefruit"],"id":8,"name":"Henry"}
+{"age":25,"city":"Dallas","email":"isabel@example.com","food":["pineapple","papaya"],"id":9,"name":"Isabel"}
+{"age":33,"city":"San Jose","email":"jack@example.com","food":["orange","plum"],"id":10,"name":"Jack"}
